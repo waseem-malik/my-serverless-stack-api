@@ -1,4 +1,4 @@
-# Serverless Node.js Starter
+# This is edited and feature branch Serverless Node.js Starter
 
 A Serverless starter that adds ES6, TypeScript, serverless-offline, linting, environment variables, and unit test support. Part of the [Serverless Stack](http://serverless-stack.com) guide.
 
